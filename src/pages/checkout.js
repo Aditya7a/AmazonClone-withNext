@@ -20,7 +20,7 @@ function Checkout() {
                         </h1>
                     </div>
                 </div>
-
+                <div>Hi</div>
                 {/* Right */}
             </main>
         </div>
